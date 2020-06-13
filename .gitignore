@@ -10,5 +10,7 @@ npm-debug.*
 web-build/
 web-report/
 
+yelpinfo.md
+
 # macOS
 .DS_Store
